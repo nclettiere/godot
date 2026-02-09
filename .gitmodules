@@ -1,6 +1,3 @@
-[submodule "modules/steam"]
-	path = modules/steam
-	url = https://codeberg.org/godotsteam/godotsteam.git
 [submodule "modules/limboai"]
 	path = modules/limboai
 	url = git@github.com:limbonaut/limboai.git
