@@ -1,0 +1,9 @@
+[submodule "modules/steam"]
+	path = modules/steam
+	url = https://codeberg.org/godotsteam/godotsteam.git
+[submodule "modules/limboai"]
+	path = modules/limboai
+	url = git@github.com:limbonaut/limboai.git
+[submodule "modules/voxel"]
+	path = modules/voxel
+	url = git@github.com:Zylann/godot_voxel.git
