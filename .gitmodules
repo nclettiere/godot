@@ -1,0 +1,6 @@
+[submodule "modules/voxel"]
+	path = modules/voxel
+	url = git@github.com:Zylann/godot_voxel.git
+[submodule "modules/limboai"]
+	path = modules/limboai
+	url = git@github.com:limbonaut/limboai.git
